@@ -9,10 +9,10 @@ It helps business owners make faster, smarter decisions — just like Blinkit de
 ![Index Overview](./Dashboard1.png) 
 
 ### Overview Insights
-![Follow-Up Dashboard](./Dashboard2.png)
+![Follow-Up Dashboard](./Dashboard3.png)
 
 ### Detailed Insights
-![Follow-Up Dashboard](./Dashboard3.png)
+![Follow-Up Dashboard](./Dashboard2.png)
 
 ---
 

@@ -14,6 +14,9 @@ It helps business owners make faster, smarter decisions — just like Blinkit de
 ### Detailed Insights
 ![Follow-Up Dashboard](./Dashboard2.png)
 
+### Drill-Through Page
+![Follow-Up Dashboard](./Dashboard4.png)
+
 ---
 
 ## 🚀 Project Overview
